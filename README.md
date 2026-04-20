@@ -10,7 +10,7 @@ It helps ensure efficient inventory management and reduces wastage in healthcare
 
 ---
 
-## 📊 Dashboard[Create new repository](https://github.com/new)
+## 📊 Dashboard [Create new repository](https://github.com/new)
 
 ➡️ The dashboard tracks:
 
